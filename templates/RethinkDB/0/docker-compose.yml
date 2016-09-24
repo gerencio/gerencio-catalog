@@ -2,6 +2,6 @@ rethinkdb:
   restart: always
   labels:
     io.rancher.container.hostname_override: container_name
-  image: xdevelsistemas/debian-env:rethinkdb-env
+  image: gerencio/rethinkdb
   volumes: 
   - ${data}:/data

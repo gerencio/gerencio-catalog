@@ -1,0 +1,5 @@
+name: Elasticsearch 2.x (with RethinkDB)
+description: |
+  Elasticsearch, (version with persistence and rethinkdb plugin)
+version: 2.4.0-gerencio
+category: ELK
